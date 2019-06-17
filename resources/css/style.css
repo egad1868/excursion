@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1, h2 {
+  color: #ffffff;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.copy {
+  text-align: right;
+}
